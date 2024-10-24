@@ -1,0 +1,4 @@
+﻿  ConsoleApplication6.c
+C:\Users\kim\Desktop\ComputerProgramingTest\ConsoleApplication6\ConsoleApplication6.c(10,18): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\kim\Desktop\ComputerProgramingTest\ConsoleApplication6\ConsoleApplication6.c(12,18): warning C4013: 'toupper'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ConsoleApplication6.vcxproj -> C:\Users\kim\Desktop\ComputerProgramingTest\x64\Debug\ConsoleApplication6.exe
